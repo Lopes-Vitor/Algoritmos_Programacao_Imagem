@@ -10,9 +10,9 @@
         -  Fim Enquanto
       -  Fim Enquanto
         -  Enquanto i < 16 Faca
-        -  "Linha x"
-          -  Enquanto j < 16 Faca
-            -  "m[i][j]
-          -  Fim Enquanto
+          -  "Linha x"
+            -  Enquanto j < 16 Faca
+              -  "m[i][j]
+            -  Fim Enquanto
         - Fim Enquanto
 - Fim
