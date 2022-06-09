@@ -9,7 +9,7 @@
             -  "m[i][j]"
           -  Fim Enquanto
       -  Fim Enquanto
-          -  Enquanto i < 16 Faca
+           -  Enquanto i < 16 Faca
               -  "Linha x"
                 -  Enquanto j < 16 Faca
                    -  "m[i][j]
