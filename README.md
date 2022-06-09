@@ -16,3 +16,5 @@
                 - Fim Enquanto
           - Fim Enquanto
 - Fim
+
+![isso e uma imagem](https://github.com/Lopes-Vitor/Imagem/blob/main/Diagrama%20imagem.png)
